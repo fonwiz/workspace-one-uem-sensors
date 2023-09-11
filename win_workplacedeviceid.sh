@@ -1,4 +1,4 @@
-# Run as System and Automatic Architecture
+# Run as Current User and Automatic Architecture
 # Run dsregcmd /status in a command prompt and capture the output
 $dsregcmdOutput = cmd /c "dsregcmd /status"
 
